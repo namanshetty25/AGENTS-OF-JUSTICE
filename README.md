@@ -10,7 +10,7 @@ Supports structured trial stages: opening statements, witness statements, interr
 Reads case details from a CSV file and processes a specific case based on its serial number.
 Uses the Google Gemini API (gemini-1.5-flash) for natural language generation.
 
-Prerequisites
+## Prerequisites
 
 Python 3.x installed.
 Google Gemini API Key:
