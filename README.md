@@ -68,11 +68,7 @@ python main.py
 
 ---
 
-
----
-
 ## Built by:
 
-- **Naman Shetty** ([LinkedIn](https://www.linkedin.com/in/naman-v-shetty))
-- 
+**Naman Shetty** ([LinkedIn](https://www.linkedin.com/in/naman-v-shetty))
 ---
