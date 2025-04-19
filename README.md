@@ -63,7 +63,7 @@ pip install -r requirements.txt
 3. **Run the simulation:**
 
 ```
-python main.py
+python gradio_app.py
 ```
 
 ---
