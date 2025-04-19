@@ -38,7 +38,7 @@ Agents-of-Justice/
 ├── prompts/                # Prompt templates for each role
 ├── simulations/            # Scripts to run specific trial scenarios
 ├── utils/                  # Helper and utility functions
-├── main.py                 # Entry point to run the courtroom simulation
+├── gradio_app.py           # Entry point to run the courtroom simulation through gradio
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're reading it
 ```
