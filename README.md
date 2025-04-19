@@ -50,8 +50,8 @@ Agents-of-Justice/
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/your-username/agents-of-justice.git
-cd agents-of-justice
+git clone https://github.com/namanshetty25/AGENTS-OF-JUSTICE.git
+cd AGENTS-OF-JUSTICE
 ```
 
 2. **Install dependencies:**
