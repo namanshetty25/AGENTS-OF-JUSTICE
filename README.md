@@ -13,6 +13,7 @@ The simulation proceeds in four key phases:
 3. **Closing Statements** – A final plea summarizing their stance and evidence.
 4. **Judge's Ruling** – The Judge agent evaluates the arguments and delivers a verdict.
 
+
 ---
 
 ##  Features
@@ -41,6 +42,8 @@ Agents-of-Justice/
 ├── gradio_app.py           # Entry point to run the courtroom simulation through gradio
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're reading it
+
+**final.py**- This is the updated code so as to give the verdict as granted(1)/denied(1) for the kaggle competetion
 ```
 
 ---
