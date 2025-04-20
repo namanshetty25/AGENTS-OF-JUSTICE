@@ -3,7 +3,7 @@ import pandas as pd
 import google.generativeai as genai
 from tqdm import tqdm
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDR3YoWaQ_bTLJelv8uRBVIZrGHvTle0U4")
+genai.configure(api_key="API KEY")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Utility function to call Gemini API with retries
