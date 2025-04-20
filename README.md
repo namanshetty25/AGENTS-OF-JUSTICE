@@ -43,7 +43,7 @@ Agents-of-Justice/
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're reading it
 
-final.py- This is the updated code so as to give the verdict as granted(1)/denied(1) for the kaggle competetion
+final.py- This is the updated code so as to give the verdict as granted(1)/denied(0) for the kaggle competetion
 ```
 
 ---
